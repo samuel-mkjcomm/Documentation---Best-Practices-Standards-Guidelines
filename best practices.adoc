@@ -20,7 +20,7 @@ If a document is doing weird stuff and you don't know why, it very well may be a
 
 In-Line Pictures:: Navigate to menu:File[Options > Advanced], then, under the "Cut, copy, and paste" section, set the "Insert/paste pictures as" option to "In line with text". 
 
-_You know how pasting images into Word has a reputation for ruining documents in surreal and baffling ways? 
+_You know how pasting images into Word has a reputation for ruining documents in surreal and baffling ways?
 This (mostly) fixes that. 
 Also, it makes captions, and hence cross-references, work as they should._
 
