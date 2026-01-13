@@ -1,0 +1,28 @@
+= Language, Phrasing, and Style Guidelines for Technical Documentation
+Samuel Herman <samuel@mkjcomm.com>
+v0.1, 1-13-2026
+:toc:
+:experimental:
+:sectnums:
+:icons: font
+
+== Introduction
+
+This document provides guidelines for phrasing, word choice, grammar, and other linguistic aspects of writing technical documentation (e.g., manuals, test procedures, training material).
+
+== General Guidelines
+
+=== Consistency and Accuracy of Terms
+
+* Refer to the same thing by the same term throughout a document.
+* Maintain consistency of:
+** capitalization (e.g., "the CCTV Cabinet" vs "the CCTV cabinet"), 
+** hyphenation (e.g., "MR-250" vs "MR 250"), 
+** closed vs open compounds (e.g., "Deepwell" vs "Deep Well"), and 
+** abbreviations (e.g., "AC" vs "A/C").
+* Ensure that terms used in document agree with those used in drawings and other associated material.
+* Make references to labels (e.g., names of programmed alarms, physical labels on wires, titles of pages in software) identical to the actual labels.
+
+=== Voice
+
+
