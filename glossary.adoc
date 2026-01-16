@@ -1,0 +1,19 @@
+= Glossary
+Samuel Herman <samuel@mkjcomm.com>
+v0.1, 1-13-2026
+:toc:
+:experimental:
+:sectnums:
+:icons: font
+
+
+
+Active Voice::
+  A grammatical voice in which the subject of the sentence performs the action expressed by the verb.
+  For example, "The operator records the measurement."
+
+Adjective::
+  A word that indicates an attribute or quality of a noun (e.g., "red," "quick," "large").
+
+Adverb::
+    A word that modifies a verb, adjective, prepositional phrase, clause, sentence, or other adverb, often indicating manner, place, time, or degree (e.g., "quickly," "very," "here").

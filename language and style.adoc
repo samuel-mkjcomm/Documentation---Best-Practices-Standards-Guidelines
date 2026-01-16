@@ -14,15 +14,224 @@ This document provides guidelines for phrasing, word choice, grammar, and other 
 
 === Consistency and Accuracy of Terms
 
-* Refer to the same thing by the same term throughout a document.
-* Maintain consistency of:
-** capitalization (e.g., "the CCTV Cabinet" vs "the CCTV cabinet"), 
-** hyphenation (e.g., "MR-250" vs "MR 250"), 
-** closed vs open compounds (e.g., "Deepwell" vs "Deep Well"), and 
-** abbreviations (e.g., "AC" vs "A/C").
-* Ensure that terms used in document agree with those used in drawings and other associated material.
-* Make references to labels (e.g., names of programmed alarms, physical labels on wires, titles of pages in software) identical to the actual labels.
+. Refer to the same thing by the same term throughout a document.
+. Maintain consistency of:
+.. capitalization (e.g., "the CCTV Cabinet" vs "the CCTV cabinet"), 
+.. hyphenation (e.g., "MR-250" vs "MR 250"), 
+.. closed vs open compounds (e.g., "Deepwell" vs "Deep Well"), and 
+.. abbreviations (e.g., "AC" vs "A/C").
+. Ensure that terms used in document agree with those used in drawings and other associated material.
+. Make references to labels (e.g., names of programmed alarms, physical labels on wires, titles of pages in software) identical to the actual labels.
 
 === Voice
 
+_Voice_ refers to the relationship between the subject of a sentence (who or what the sentence is about) and the predicate (what occurs or is said about the subject).
+
+English has two voices: _active_ and _passive_. 
+
+* In active voice, the subject performs the action expressed by the verb (e.g., "The operator records the measurement"). That is, the subject of the sentence performs the action, and the action happens to the object of the sentence.
+* In passive voice, the subject is acted upon by the verb (e.g., "The measurement is recorded by the operator"). That is, the action happens to the subject of the sentence.
+
+.Recommendation
+****
+Generally speaking, active voice is preferable so long as both the performer and receiver of the action are known and relevant.
+
+When the performer of the action is unknown, clear from context, or of lesser importance than the action and/or its receiver, passive voice may be the better choice.
+
+As always, clarity, directness, and conciseness are the primary goals, and should not be sacrificed for the sake of using one voice over the other.
+****
+
+=== Mood
+
+_Mood_ refers to the form of the verb that indicates how an action or state of being is conceived.
+
+English has three moods: _indicative_, _imperative_, and _subjunctive_.
+
+. The indicative mood makes statements and asks questions (e.g., _"The system *is* operational."_ or _"*Was* the system operational before you hit it with a hammer?"_) using normal verb conjugation.
+. The imperative mood gives commands or makes requests (e.g., _"*Start* the system."_) using the infinitive form of the verb (e.g., _do_, _be_, _have_).
+. The subjunctive mood expresses recommendations, suggestions, proposals, demands, hypothetical situations, or conditions contrary to fact (e.g., _"The contractor demands that the team *increase* their efforts."_ or _"If the system *were* operational, we could proceed."_).
+
+== Shall, Should, Will, Must
+
+Shall:: 
+    Use _shall_ to express a requirement (subject to verification). For example, _"When the test is complete, MKJ *shall* provide the test report to NYCT."_ Ensure that requirements are specific, verifiable, and unambiguous.
+
+Should::
+    Use _should_ to express a recommendation. For example, _"The user *should* regularly back up their data."_
+
+Will::
+    Use _will_ to forecast an event or state of affairs that is certain or highly likely. For example, _"NYCT *will* review the submission."_
+
+Must::
+    Use _must_ to describe a dependent relationship. For example, _"The device *must* be restarted before the firmware update can take effect."_
+
+== Abbreviations
+
+=== Types of Abbreviations
+
+Acronyms:: 
+    Abbreviations formed from the initial letters of a series of words and pronounced as a word (e.g., "OSHA", "NASA", "laser", "radar").
+Initialisms:: 
+    Abbreviations formed from the initial letters of a series of words and pronounced as individual letters (e.g., "NYCT", "MTA", "CCTV").
+Contractions:: 
+    Abbreviations formed by omitting certain letters from a word or phrase, often replacing the omitted letters with an apostrophe (e.g., "ft" for _foot_). Contractions (particularly those which represent units of measure) are typically pronounced as the full word(s) they represent.
+Symbols:: 
+    Abbreviations that use symbols to represent words or concepts (e.g., "&" for _and_, "%" for _percent_, "°" for _degree_).
+
+
+=== Use of Abbreviations
+
+. Ensure that a term warrants being abbreviated (i.e., it is used frequently enough in the document to justify the abbreviation). 
+.. However, exceptions exist: if a term is very long or cumbersome, or if the abbreviation is widely recognized and understood by the target audience, it may be appropriate to introduce the abbreviation even if the term is not used frequently.
+. Define abbreviations upon first use in the document by spelling out the full term followed by the abbreviation in parentheses (this is referred to as "_calling out_ the abbreviation"). For example, _"The Public Address (PA) System consists of X, Y, and Z."_ The abbreviation may be used alone thereafter.
+.. However, it may be helpful to the reader to repeat the callout for an abbreviation if it has not been used for an extended segment of the document (particularly if the abbreviation is obscure or otherwise likely to be unfamiliar to the reader).
+. Use abbreviations consistently throughout the document once they have been defined.
+.. Do not use multiple abbreviations for the same term.
+.. Do not use the same abbreviation (or abbreviations which are similar enough to be likely to cause confusion) for multiple distinct terms.
+. Avoid calling out abbreviations in titles, headings, captions, and similar places. Instead, spell out the full term and call out the abbreviation when it next appears in the main text.
+. Be cautious in coining new abbreviations. Do so only when necessary, and ensure that the new abbreviation does not conflict with existing abbreviations that are in common use or which otherwise may be familiar to the reader.
+. Use abbreviations for units of measure *only* when
+* they immediately follow a numeric value (e.g., "5 ft", "10 kg", "32 °F"), or when
+* they are used as labels for table columns/rows, graph axes, or similar elements where space is limited.
+. Use foreign abbreviations (e.g., "e.g.", "i.e.", "etc.") correctly.
+
+=== Abbreviations Not Called Out
+
+Some abbreviations need not always be called out. (Generally, considerations for this matter include commonality of use, familiarity to the target audience of a document, etc.)
+
+. Names of client/contracting agencies (e.g., NYCT, MTA) need not be called out in documents intended for use by those agencies.
+. Standard units of measure (e.g., ft, lb, °F, °C, V, W) need not be called out.
+. Symbols for commonly understood mathematical symbols and operators (e.g., +, −, ×, ÷, =, %, °) need not be called out.
+. Foreign abbreviations (e.g., "e.g.", "i.e.", "etc.") need not be called out.
+
+=== Plurals of Abbreviations
+
+In general, form the plural of an abbreviation by adding a lowercase "s" (rather than an apostrophe and a lowercase "s").
+
+*However*, this does _not_ apply to abbreviations for units of measure. Abbreviations for units of measure are _always_ singular (e.g., "5 ft", "32 °F"), regardless of the value.
+
+=== Possessives of Abbreviations
+
+In general, form the possessive of an abbreviation by adding an apostrophe and a lowercase "s" (e.g., _"we are the NYCT's favorite systems integrator"_).
+
+=== Articles with Abbreviations
+
+==== Definite Article 
+
+Whether to use the definite article ("the") with an abbreviation depends on the abbreviation and its function in a given sentence. There are no universal rules (generally speaking, go with what sounds most natural), but consider the following guidelines:
+
+. When an initialism represents a singular noun that functions as a subject or an object and which cannot be made plural (this is often the case for specific organizations, e.g., "MTA"), "the" is usually added before the abbreviation. For example, _"The MTA is responsible for system maintenance."_ 
+.. Note that some organizations may not use "the" before their names as a matter of convention/precedent/what have you; in such cases, following that organization's preference is probably the best solution.
+. When an acronym represents a singular noun that functions as a subject or an object and which cannot be made plural (e.g., "OSHA"), "the" is usually omitted before the abbreviation. For example, _"OSHA requires that all personnel be certified."_
+. When either an acronym or an initialism functions as an attributive noun (i.e., it modifies another noun, as in "NYCT contract documents" or "CCTV cameras"), whether or not to use "the" depends on the extent to which the assertion applies to all instances of the situation being described.
+.. "The" is usually omitted when the assertion applies to all instances within the context. For example, _"NYCT contract documents are written in English."_
+.. When the assertion does not apply to all instances within the context, "the" may be used to highlight the limits of the assertion. Sentences of this sort often include a qualifying clause, e.g., _"As a joke, the CCTV cameras at Broadway Junction were installed upside-down."_
+
+==== Indefinite Articles
+
+Use the customary pronunciation of an abbreviation to determine which indefinite article ("a" or "an") to use.
+
+. Use "a" before abbreviations that begin with a consonant sound (e.g., _"a PA cabinet"_, _"a CCTV camera"_).
+. Use "an" before abbreviations that begin with a vowel sound (e.g., _"an MTA contract"_, _"an OSHA regulation"_).
+
+=== Periods and Spaces with Abbreviations
+
+
+=== Mixed-Case Abbreviations
+
+
+== Contractions
+
+Contractions (e.g., "don't" for _do not_, "it's" for _it is_, "you're" for _you are_) are, despite what you might have heard, generally fine to use in technical documentation and similar formal writing contexts. Do not overuse them (else the tone may come across as too casual), but do not avoid them out of principle if their use would improve the flow and readability of the text.
+
+
+== Compound Words and Phrases
+
+=== Compound Nouns
+==== Nouns Combined with Adverbs
+==== Process Nouns
+
+=== Compound Verbs
+
+=== Compound Adjectives
+
+Compound adjectives represent longer adjective phrases or clauses that modify a noun. (Often, word order and part(s) of speech are changed in the transformation from phrase/clause to compound adjective.)
+
+.Examples of Compound Adjectives
+====
+[%header,cols="1,1"]
+|===
+|Expanded Phrase/Clause
+|Compound Adjective
+
+|a procedure with 10 steps
+|a 10-step procedure
+
+|components that have been approved by NYCT
+|NYCT-approved components
+|===
+
+====
+
+=== Prefixes and Suffixes
+
+Generally speaking, do _not_ use hyphens to attach prefixes and suffixes to base words. Of course, however, exceptions exist -- when in doubt, observe the following conventions:
+
+. Generally, *do not hyphenate* prefixes or suffixes attached to base words in the following situations:
+.. prefixes that end with consonants;
+.. prefixes that end with vowels attached to base words that begin with a different letter (i.e., any letter except for the last letter of the prefix);
+.. prefixes that end with "e" attached to base words that begin with "e" (e.g., "preexisting"), *except* for "de-emphasize"/"re-emphasize", "de-energize"/"re-energize", "de-escalate", and analogous situations.
+.. suffixes in general (regardless of their initial letter), *unless* not hyphenating would cause a letter to appear three or more times in a row (e.g., write "shell-less" rather than "shellless").
+. Generally, *hyphenate* prefixes or suffixes attached to base words in the following situations:
+.. prefixes that end with "a", "i", or "o" attached to base words that begin with the same letter (e.g., "intra-agency", "anti-inflammatory", "co-owner"), *except* for "cooperate", "coordinate", and their derivatives.
+.. prefixes attached to phrases which are already hyphenated, when the prefix modifies the already-hyphenated phrase as a whole (e.g., "pre-test-procedure checklist").
+.. prefixes and suffixes attached to proper nouns (e.g., "MTA-approved").
+.. suffixes that cause a letter to appear three or more times in a row if not hyphenated (e.g., write "shell-less" rather than "shellless").
+
+=== Suspending Hyphens
+
+== Items in a Series 
+
+Two or more items that function in parallel within a sentence -- whether those items are subjects, verbs, objects, phrases, clauses, or modifiers -- comprise a _series_. (The sentence you just read contains a series of [simple] items: "subjects, verbs, objects, phrases, clauses, or modifiers".)
+
+Items in a series may be _simple_ (single words or short phrases) or _complex_ (longer phrases or clauses that may include internal punctuation).
+
+NOTE: Do *not* use the ampersand (&) in place of "and" between words in running/body text. The ampersand should *only* be used in an abbreviation. 
+
+=== Simple Series
+
+=== Complex Series
+
+=== Inconsistently Modified Items 
+
+=== Appositives in Items
+
+== Parallel Construction
+
+=== Parallel Grammatical Expressions
+
+=== Parallel Visual Arragnement
+
+==== Items in Running Paragraphs
+==== Outline Structure of Bulleted and Numbered Lists
+==== Grammatical Structure of Bulleted and Numbered Lists
+
+== Casing
+
+=== Sentence Case
+=== Title Case
+=== Proprietary Names
+=== URLs
+
+== Numbers
+=== Countable Quantities
+=== Measured Quantities
+=== Fractions
+=== Ordinals
+
+== Figures
+
+== Tables
+
+== Admonitions
 

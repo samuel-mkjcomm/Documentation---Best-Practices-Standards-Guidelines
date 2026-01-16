@@ -128,12 +128,16 @@ The final table, with standard styles/formatting/etc applied, looks like this:
 image::media/tables/merge cells/table-eg-3.png[]
 ====
 
-== Cross-References
+== Numbered Objects and Cross-References
 
 === Captions of Tables and Figures
 
 Captions of tables go above the table.
 Captions of figures go below the figure.
+
+=== Numbering of Tables and Figures
+
+Number tables and figures separately.
 
 === Referencing Numbered Objects in Text
 

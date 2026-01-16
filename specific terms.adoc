@@ -1,0 +1,15 @@
+= Use of Specific Terms
+Samuel Herman <samuel@mkjcomm.com>
+v0.1, 1-13-2026
+:toc:
+:experimental:
+:sectnums:
+:icons: font
+
+
+& (ampersand)::
+    Use the word "and" instead of the ampersand symbol ("&") in running text. The ampersand may be used when it is part of a proper noun (e.g., company names such as "Johnson & Johnson") or an abbreviation (e.g., "MTA C&D").
+
+and/or::
+    Avoid using "and/or". Generally speaking, "or" functions as the _inclusive or_ (i.e., it conveys the possibility that either or both of the stated options may apply). If you believe that this possibility must be made explicit, write something along the lines of _"use <option A>, <option B>, or both."_
+
