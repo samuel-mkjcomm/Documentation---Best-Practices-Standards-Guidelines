@@ -1,0 +1,11 @@
+= MKJ Documentation Standards
+Samuel Herman <samuel@mkjcomm.com>
+v0.1, 1-13-2026
+:toc:
+:experimental:
+:sectnums:
+:icons: font
+
+== Introduction
+
+This document describes standards for document formatting, revision numbering, file naming, and other aspects of technical documentation produced by MKJ Communications.

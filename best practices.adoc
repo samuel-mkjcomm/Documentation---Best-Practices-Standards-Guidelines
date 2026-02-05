@@ -40,6 +40,10 @@ Save AutoRecover Info:: Navigate to menu:File[Options > Save], then check the bo
 _You don't want to lose your work, obviously. 
 The program sucks, don't bet too much on its stability._
 
+Select Content Consistently (Recommended):: Navigate to menu:File[Options > Advanced], then under "Editing options", uncheck "When selecting, automatically select entire word" and "Use smart paragraph selection". 
+
+_This allows selection of content in Word to work more like selection in plaintext; i.e., Word will no longer fight you to make sure you select the period at the end of a sentence even if you don't want to._
+
 
 == Breaks and Other Formatting Controls
 
@@ -93,13 +97,17 @@ One exception to this general "don't use Section Breaks" rule is when one needs 
 If this is needed, try to put content that needs to be on landscape pages at the end of the document if possible (for forms and similar items, this should be possible).
 ====
 
+== Use of Styles
+
+
+
 == Tables
 
 === General Guidelines
 
-* Use "Distribute Columns" to evenly distribute column widths.
-* Use "Merge Cells" to combine cells as needed to create the desired layout.
-* Generally, avoid adding columns (this can lead to formatting weirdness). Either create tables with the maximum number of columns needed for any row (see below), then use "Merge Cells" in rows where extra columns are not needed; or use "Split Cells" to create additional columns in specific rows as needed.
+. Use "Distribute Columns" to evenly distribute column widths.
+. Use "Merge Cells" to combine cells as needed to create the desired layout.
+. Generally, avoid adding columns (this can lead to formatting weirdness). Either create tables with the maximum number of columns needed for any row (see below), then use "Merge Cells" in rows where extra columns are not needed; or use "Split Cells" to create additional columns in specific rows as needed.
 
 === Creating Complex Tables
 
@@ -107,7 +115,7 @@ When creating a table, determine the _maximum_ number of rows and columns that w
 Use the "Merge Cells" feature (menu:Table Layout[Merge Cells]) to combine cells as needed to create the desired layout.
 Avoid adding or deleting rows and columns after the table has been created.
 
-.Creating a Table with variable columns per row
+.Creating a Table with Variable Columns per Row
 ====
 Suppose we need to create a test procedure where several, but not all, steps require the user to measure and record a particular value, while the other steps do not require any measurements. (In my view, one should often consider having a separate "Results" or "Measurements" table for many cases like this---but if, for example, only one device is being tested, this sort of thing can be appropriate.)
 
@@ -132,12 +140,13 @@ image::media/tables/merge cells/table-eg-3.png[]
 
 === Captions of Tables and Figures
 
-Captions of tables go above the table.
-Captions of figures go below the figure.
+. Captions of tables go above the table.
+. Captions of figures go below the figure.
 
 === Numbering of Tables and Figures
 
-Number tables and figures separately.
+. Number tables and figures separately. 
+. Include chapter number -- when inserting a caption, open the btn:[Numbering] dialog box, and select "include chapter number". Use a period as the separator.
 
 === Referencing Numbered Objects in Text
 

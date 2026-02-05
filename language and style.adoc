@@ -112,7 +112,7 @@ In general, form the plural of an abbreviation by adding a lowercase "s" (rather
 
 === Possessives of Abbreviations
 
-In general, form the possessive of an abbreviation by adding an apostrophe and a lowercase "s" (e.g., _"we are the NYCT's favorite systems integrator"_).
+In general, form the possessive of an abbreviation by adding an apostrophe and a lowercase "s" (e.g., _"we are NYCT's favorite systems integrator"_).
 
 === Articles with Abbreviations
 
@@ -200,21 +200,58 @@ NOTE: Do *not* use the ampersand (&) in place of "and" between words in running/
 
 === Simple Series
 
+A _simple series_ consists of two or more simple items (single words or short phrases).
+
+. The next-to-last item in a simple series is separated from the last item by a conjunction (e.g., "and", "or", "nor").
+. When there are only two items in the series, no punctuation is used before the conjunction. For example, _"The system includes cameras and intercoms."_
+. When there are three or more items in the series, a comma (the "Oxford comma") is used before the conjunction. For example, _"The system includes cameras, intercoms, and microphones."_
+
+[IMPORTANT]
+.The Oxford Comma
+====
+The use of the Oxford comma is *required* to avoid ambiguity -- without it, items may be misinterpreted as being grouped together.
+For example, compare:
+
+* _"Cabinet wires are color-coded. Wiring colors are as follows: red, blue, green and yellow."_
+** This may be interpreted as meaning that the wires may be "red", "blue", or a combination of "green and yellow".
+* _"Cabinet wires are color-coded. Wiring colors are as follows: red, blue, green, and yellow."_
+** This clearly indicates that the wires may be "red", "blue", "green", or "yellow".
+====
+
 === Complex Series
+
+A _complex series_ is a series where one or more items are complex items (longer phrases or clauses that may include internal punctuation).
+
+. Like with simple series, the next-to-last item in a complex series is separated from the last item by a conjunction (e.g., "and", "or", "nor").
+. When any of the items in a series contain commas, or when more distinction between items is needed for clarity, semicolons are used to separate all items in the series (even the last two, analogous to the Oxford comma).
+
+.Use of Semicolons in Complex Series
+====
+Compare:
+
+* _"Cable jackets are patterned in red, white, and blue; green and yellow; or orange and black."_
+** There are three distinct patterns: "red, white, and blue", "green and yellow", or "orange and black".
+* _"Cable jackets are patterned in red, white, and blue, green and yellow, or orange and black."_
+** How many distinct patterns are there? All conjunctions are used correctly, but the reader may not feel confident in their interpretation.
+====
 
 === Inconsistently Modified Items 
 
+Items in a series are often modified by clauses, prepositional phrases, or single words. Moreover, items in a series are often modified in different ways.
+
+. Single adjectives that precede nouns can produce ambiguity with respect to which nouns in a series they modify. For example, the series "by clauses, prepositional phrases, or single words" in the paragraph above could have been written as "by single words, clauses, or prepositional phrases" (listing the items in order of increasing grammatical complexity), but it might be ambiguous to the reader whether "single" modifies only "words" or all three items in the series.
+.. When order is unimportant (as in the example above), consider reordering the items in the series to avoid ambiguity.
+.. When the order of items is important (for instance, when a series is expressing a dependent sequence), maintain the order, and emphasize each item by repeating the word or words that can signal the parallel structure. For example, in the example above, one could write "by single words, by clauses, or by prepositional phrases".
+. Clauses, prepositional phrases, and single adverbs which follow the words they modify can produce ambiguity when they follow the last item. Consider: "the component was built, tested, and validated *in the field*". The order of items is logical and should be preserved, but were all three actions performed in the field, or only the last action?
+
+
 === Appositives in Items
 
-== Parallel Construction
+== Lists
 
-=== Parallel Grammatical Expressions
+=== Outline Structure of Bulleted and Numbered Lists
 
-=== Parallel Visual Arragnement
-
-==== Items in Running Paragraphs
-==== Outline Structure of Bulleted and Numbered Lists
-==== Grammatical Structure of Bulleted and Numbered Lists
+=== Grammatical Structure of Bulleted and Numbered Lists
 
 == Casing
 
@@ -235,3 +272,18 @@ NOTE: Do *not* use the ampersand (&) in place of "and" between words in running/
 
 == Admonitions
 
+=== Notes
+
+A _note_ provides information which is not related to hazards. For example, a note may be used to emphasize a piece of information, provide additional context, or remind the user of a relevant fact.
+
+=== Dangers
+
+A _danger_ notice indicates a hazard which, if not avoided, may cause severe or fatal injury to persons. Danger notices should be displayed with the color red and the word "DANGER" in all capital letters.
+
+=== Warnings
+
+A _warning_ notice indicates a hazard which, if not avoided, may cause minor or moderate injury to persons. Warning notices should be displayed with the color orange and the word "WARNING" in all capital letters.
+
+=== Cautions
+
+A _caution_ notice indicates a hazard which, if not avoided, may damage or destroy equipment. Caution notices should be displayed with the color yellow and the word "CAUTION" in all capital letters.
