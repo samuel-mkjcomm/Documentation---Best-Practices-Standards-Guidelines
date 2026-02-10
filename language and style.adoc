@@ -74,7 +74,7 @@ Acronyms::
 Initialisms:: 
     Abbreviations formed from the initial letters of a series of words and pronounced as individual letters (e.g., "NYCT", "MTA", "CCTV").
 Contractions:: 
-    Abbreviations formed by omitting certain letters from a word or phrase, often replacing the omitted letters with an apostrophe (e.g., "ft" for _foot_). Contractions (particularly those which represent units of measure) are typically pronounced as the full word(s) they represent.
+    Abbreviations formed by omitting certain letters from a word or phrase (e.g., "ft" for _foot_). Contractions (particularly those which represent units of measure) are typically pronounced as the full word(s) they represent.
 Symbols:: 
     Abbreviations that use symbols to represent words or concepts (e.g., "&" for _and_, "%" for _percent_, "°" for _degree_).
 
