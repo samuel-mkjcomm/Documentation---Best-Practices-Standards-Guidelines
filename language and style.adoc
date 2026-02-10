@@ -20,7 +20,7 @@ This document provides guidelines for phrasing, word choice, grammar, and other 
 .. hyphenation (e.g., "MR-250" vs "MR 250"), 
 .. closed vs open compounds (e.g., "Deepwell" vs "Deep Well"), and 
 .. abbreviations (e.g., "AC" vs "A/C").
-. Ensure that terms used in document agree with those used in drawings and other associated material.
+. Ensure that terms used in a document agree with those used in drawings and other associated material.
 . Make references to labels (e.g., names of programmed alarms, physical labels on wires, titles of pages in software) identical to the actual labels.
 
 === Voice
