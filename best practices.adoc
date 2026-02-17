@@ -1,6 +1,7 @@
 = Standards and Best Practices for Technical Documentation with Microsoft Word
 Samuel Herman <samuel@mkjcomm.com>
-v0.1, 1-13-2026
+0, {docdate}
+//:stylesheet: mkj-stylesheet.css
 :toc:
 :experimental:
 :sectnums:
@@ -87,7 +88,7 @@ Some general guidelines on Page Breaks are as follows.
 A Section Break (menu:Layout[Breaks > Section Breaks]) divides the document into sections, allowing different formatting (e.g., different page numbering styles, different margins, different headers/footers) in each section.
 ====
 
-Honestly, probably don't use Section Breaks. I use them _very occasionally_ for large documents (e.g., manuals) wherein things need to be done which cannot be done otherwise (e.g., different page numbering styles in different parts of the document). 
+It's probably best to avoid using Section Breaks. I use them _very occasionally_ for large documents (e.g., manuals) wherein things need to be done which cannot be done otherwise (e.g., different page numbering styles in different parts of the document). 
 
 For documents that might end up being edited by basically anyone (e.g., test procedures), there's essentially nothing to be gained from Section Breaks that outweighs their potential (and propensity) to cause bizarre issues that waste time, induce headaches, etc.
 

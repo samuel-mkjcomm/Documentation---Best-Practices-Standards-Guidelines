@@ -1,0 +1,14 @@
+= MKJ Project Folder Structure and File Management
+Samuel Herman <samuel@mkjcomm.com>; Musa Khan <musa@mkjcomm.com>
+0, {docdate}
+:toc:
+:experimental:
+:sectnums:
+:icons: font
+
+== Introduction and Purpose
+
+This guide establishes the standard file and folder structure to be used on all MKJ projects. It ensures consistency across all project managers, engineers, and team members, making it easy for anyone to find, manage, and archive project documents regardless of project size or type. 
+
+IMPORTANT: All employees are required to follow this structure when creating or managing project folders. Deviations must be approved by the Project Manager.
+

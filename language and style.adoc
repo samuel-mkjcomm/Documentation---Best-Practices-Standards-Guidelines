@@ -1,10 +1,11 @@
 = Language, Phrasing, and Style Guidelines for Technical Documentation
 Samuel Herman <samuel@mkjcomm.com>
-v0.1, 1-13-2026
+v0, {docdate}
 :toc:
 :experimental:
 :sectnums:
 :icons: font
+//:stylesheet: mkj-stylesheet.css
 
 == Introduction
 

@@ -1,6 +1,6 @@
 = Use of Specific Terms
 Samuel Herman <samuel@mkjcomm.com>
-v0.1, 1-13-2026
+0, {docdate}
 :toc:
 :experimental:
 :sectnums:
